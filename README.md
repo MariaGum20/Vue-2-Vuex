@@ -18,4 +18,6 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+A small project was created on the topic "List of books by Java request".
+
+The final project also contains a "node_modules" file, but it was not uploaded to the repository.
